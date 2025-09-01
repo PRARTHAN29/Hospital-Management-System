@@ -119,13 +119,3 @@ Logged in as: nurse01 (nurse)
 5. Logout
 6. Exit
 ```
-
----
-
-
----
-
-## 🛠️ Requirements
-- Python 3.x
-- No external libraries required.
-
