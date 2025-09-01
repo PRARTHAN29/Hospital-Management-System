@@ -97,8 +97,6 @@ Example:
 2:Bob:45:Male:Diabetes
 ```
 
----
-
 ## ▶️ Example Usage
 ```
 --- Select Role ---
@@ -124,19 +122,6 @@ Logged in as: nurse01 (nurse)
 
 ---
 
-## 🔐 Security Note
-Currently, **passwords are stored as plain text** for simplicity.
-For production:
-- Use **password hashing** (e.g., `bcrypt`).
-- Add **input validation** and **error handling**.
-
----
-
-## ✅ Future Enhancements
-- Implement **password hashing**.
-- Add **role-based access for doctors to update records** (if needed).
-- Replace text files with a **database** (SQLite, MySQL).
-- Build a **GUI (Tkinter)** or **Web Interface (Flask/Django)**.
 
 ---
 
@@ -144,9 +129,3 @@ For production:
 - Python 3.x
 - No external libraries required.
 
----
-
-## 👨‍💻 Author
-Developed by **Your Name**
-📧 Email: your.email@example.com
-🌐 GitHub: https://github.com/yourusername
