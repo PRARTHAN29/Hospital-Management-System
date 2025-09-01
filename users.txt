@@ -1,0 +1,6 @@
+abc:abc:nurse
+Prarthan:123:nurse
+Lokesh:12345:nurse
+Ram:Ram:nurse
+Dhruti:Dhruti:doctor
+Namita:Namita:nurse
